@@ -1,4 +1,4 @@
-# 🐳 Docker – Learning & Practical Series
+# 🐳 Docker – Learning & Practical Series (Day 01)
 
 A hands-on journey to learning Docker, containerization, and container-based application deployment through practical examples, commands, and real-world implementations.
 
