@@ -131,23 +131,21 @@ Each day contains a Markdown file documenting the topics covered, commands execu
 ```text
 Docker/
 │
-├── README.md
+├── README.md              # Day 01 - Introduction to Docker
 │
-├── Day-01-Introduction-to-Docker.md
+├── Day-02-Docker-Images-Containers-and-Terminal.md
 │
-├── Day-02-Docker-Architecture.md
+├── Day-03-Dockerfile-Python-Deployment-and-Port-Mapping.md
 │
-├── Day-03-Docker-Images-and-Containers.md
+├── Day-04-Dockerfile-Image-Build-and-Container-Execution.md
 │
-├── Day-04-Docker-Container-Commands.md
+├── Day-05-Dockerfile-Port-ENTRYPOINT-AWS-ECR.md
 │
-├── Day-05-Dockerfile/
-│   ├── README.md
-│   └── Dockerfile
+├── Day-06-Multi-Stage-Docker-Build.md
 │
-├── Day-06-Docker-Volumes/
-│   ├── README.md
-│   └── examples/
+├── Day-07-Docker-Networking-and-Docker-Volumes.md
+│
+└── Day-08-Docker-Compose-and-Docker-Swarm.md
 │
 └── ...
 ```
@@ -156,38 +154,38 @@ Docker/
 
 ### 📝 Documentation Naming Convention
 
-**For theoretical topics and command-based practicals:**
+📚 All Docker learning topics, theoretical concepts, and practical implementations are documented in individual Markdown (`.md`) files.
+
+📁 **No separate directories are created for individual days**, as the practical code and examples are limited. All documentation files are maintained directly inside the root `Docker/` directory.
+
+#### 📄 Naming Format
 
 ```text
 Day-<n>-<Topic-Name>.md
 ```
 
-Examples:
+#### 💡 Examples
 
-```text
-Day-01-Introduction-to-Docker.md
-Day-02-Docker-Architecture.md
-Day-03-Docker-Images-and-Containers.md
-```
+| Day | Documentation File |
+|---|---|
+| 📘 Day 01 | `README.md` |
+| 🐳 Day 02 | `Day-02-Docker-Images-Containers-and-Terminal.md` |
+| 🚀 Day 03 | `Day-03-Dockerfile-Python-Deployment-and-Port-Mapping.md` |
+| 🛠️ Day 04 | `Day-04-Dockerfile-Image-Build-and-Container-Execution.md` |
+| ☁️ Day 05 | `Day-05-Dockerfile-Port-ENTRYPOINT-AWS-ECR.md` |
+| 📦 Day 06 | `Day-06-Multi-Stage-Docker-Build.md` |
+| 🌐 Day 07 | `Day-07-Docker-Networking-and-Docker-Volumes.md` |
+| ⚙️ Day 08 | `Day-08-Docker-Compose-and-Docker-Swarm.md` |
 
-**For practical topics requiring additional files:**
+#### 📌 Documentation Guidelines
 
-```text
-Day-<n>-<Topic-Name>/
-│
-├── README.md
-├── Dockerfile
-└── additional-files/
-```
+- 📖 **Day 01:** Root `README.md` represents **Introduction to Docker**.
+- 📝 **Individual Files:** Every subsequent day has its own `.md` file.
+- 🔧 **Theory + Practicals:** Both concepts and command-based practicals are documented in the same file.
+- 📂 **Single Directory:** All Markdown files remain directly inside the root `Docker/` directory.
+- ✨ **Consistent Naming:** Use descriptive, meaningful, and day-wise filenames for easy navigation.
 
-Example:
-
-```text
-Day-05-Dockerfile/
-│
-├── README.md
-└── Dockerfile
-```
+**🎯 Goal:** Keep the repository simple, organized, and easy to navigate while maintaining all learning documentation in one place.
 
 ### 📄 Daily Documentation Includes
 
