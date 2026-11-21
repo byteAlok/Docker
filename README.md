@@ -133,19 +133,33 @@ Docker/
 │
 ├── README.md              # Day 01 - Introduction to Docker
 │
-├── Day-02-Docker-Images-Containers-and-Terminal.md
+├── Day-02-Docker-Images-Containers-and-Terminal
+|         |                           
+|         └── README.md
 │
-├── Day-03-Dockerfile-Python-Deployment-and-Port-Mapping.md
+├── Day-03-Dockerfile-Python-Deployment-and-Port-Mapping
+|         |                           
+|         └── README.md
 │
-├── Day-04-Dockerfile-Image-Build-and-Container-Execution.md
+├── Day-04-Dockerfile-Image-Build-and-Container-Execution
+|         |                           
+|         └── README.md
 │
-├── Day-05-Dockerfile-Port-ENTRYPOINT-AWS-ECR.md
+├── Day-05-Dockerfile-Port-ENTRYPOINT-AWS-ECR
+|         |                           
+|         └── README.md
 │
-├── Day-06-Multi-Stage-Docker-Build.md
+├── Day-06-Multi-Stage-Docker-Build
+|         |                           
+|         └── README.md
 │
-├── Day-07-Docker-Networking-and-Docker-Volumes.md
+├── Day-07-Docker-Networking-and-Docker-Volumes
+|         |                           
+|         └── README.md
 │
-└── Day-08-Docker-Compose-and-Docker-Swarm.md
+├── Day-08-Docker-Compose-and-Docker-Swarm
+|         |                           
+|         └── README.md
 │
 └── ...
 ```
@@ -161,7 +175,7 @@ Docker/
 #### 📄 Naming Format
 
 ```text
-Day-<n>-<Topic-Name>.md
+Day-<n>-<Topic-Name>/README.md
 ```
 
 #### 💡 Examples
@@ -169,13 +183,13 @@ Day-<n>-<Topic-Name>.md
 | Day | Documentation File |
 |---|---|
 | 📘 Day 01 | `README.md` |
-| 🐳 Day 02 | `Day-02-Docker-Images-Containers-and-Terminal.md` |
-| 🚀 Day 03 | `Day-03-Dockerfile-Python-Deployment-and-Port-Mapping.md` |
-| 🛠️ Day 04 | `Day-04-Dockerfile-Image-Build-and-Container-Execution.md` |
-| ☁️ Day 05 | `Day-05-Dockerfile-Port-ENTRYPOINT-AWS-ECR.md` |
-| 📦 Day 06 | `Day-06-Multi-Stage-Docker-Build.md` |
-| 🌐 Day 07 | `Day-07-Docker-Networking-and-Docker-Volumes.md` |
-| ⚙️ Day 08 | `Day-08-Docker-Compose-and-Docker-Swarm.md` |
+| 🐳 Day 02 | `Day-02-Docker-Images-Containers-and-Terminal/README.md` |
+| 🚀 Day 03 | `Day-03-Dockerfile-Python-Deployment-and-Port-Mapping/README.md` |
+| 🛠️ Day 04 | `Day-04-Dockerfile-Image-Build-and-Container-Execution/README.md` |
+| ☁️ Day 05 | `Day-05-Dockerfile-Port-ENTRYPOINT-AWS-ECR/README.md` |
+| 📦 Day 06 | `Day-06-Multi-Stage-Docker-Build/README.md` |
+| 🌐 Day 07 | `Day-07-Docker-Networking-and-Docker-Volumes/README.md` |
+| ⚙️ Day 08 | `Day-08-Docker-Compose-and-Docker-Swarm/README.md` |
 
 #### 📌 Documentation Guidelines
 
