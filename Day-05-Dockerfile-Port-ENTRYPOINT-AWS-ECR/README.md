@@ -2,7 +2,9 @@
 
 > 🚀 Learning how to containerize a Python application, optimize Docker image builds, understand CMD vs ENTRYPOINT, manage containers and images, and push Docker images to Amazon ECR.
 
----
+<p align="center">
+  <img src="../Images/IMG-Day-5.png" width="75%" alt="Docker Learning Banner" />
+</p>
 
 ## 📚 Topics Covered
 

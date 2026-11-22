@@ -1,6 +1,10 @@
 # 🐳 Docker – Learning & Practical Series (Day 01)
 
-A hands-on journey to learning Docker, containerization, and container-based application deployment through practical examples, commands, and real-world implementations.
+> **A hands-on journey to learning Docker, containerization, and container-based application deployment through practical examples, commands, and real-world implementations.**
+
+<p align="center">
+  <img src="./Images/IMG-Day-1.png" width="75%" alt="Docker Learning Banner" />
+</p>
 
 ## 📌 About This Repository
 
@@ -133,33 +137,39 @@ Docker/
 │
 ├── README.md              # Day 01 - Introduction to Docker
 │
-├── Day-02-Docker-Images-Containers-and-Terminal
+├── Day-02-Docker-Images-Containers-and-Terminal/
 |         |                           
 |         └── README.md
 │
-├── Day-03-Dockerfile-Python-Deployment-and-Port-Mapping
+├── Day-03-Dockerfile-Python-Deployment-and-Port-Mapping/
 |         |                           
 |         └── README.md
 │
-├── Day-04-Dockerfile-Image-Build-and-Container-Execution
+├── Day-04-Dockerfile-Image-Build-and-Container-Execution/
 |         |                           
 |         └── README.md
 │
-├── Day-05-Dockerfile-Port-ENTRYPOINT-AWS-ECR
+├── Day-05-Dockerfile-Port-ENTRYPOINT-AWS-ECR/
 |         |                           
 |         └── README.md
 │
-├── Day-06-Multi-Stage-Docker-Build
+├── Day-06-Multi-Stage-Docker-Build/
 |         |                           
 |         └── README.md
 │
-├── Day-07-Docker-Networking-and-Docker-Volumes
+├── Day-07-Docker-Networking-and-Docker-Volumes/
 |         |                           
 |         └── README.md
 │
-├── Day-08-Docker-Compose-and-Docker-Swarm
+├── Day-08-Docker-Compose-and-Docker-Swarm/
 |         |                           
 |         └── README.md
+|
+├── Image-Notes/
+|         |  
+|         ├── IMG-Day-1.png                         
+|         ├── IMG-Day-2.png                         
+|         └── ...
 │
 └── ...
 ```

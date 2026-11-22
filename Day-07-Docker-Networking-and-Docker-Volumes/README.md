@@ -2,7 +2,10 @@
 
 > 🚀 Learning how Docker containers communicate with each other and how to persist container data using Docker Volumes.
 
----
+<p align="center">
+  <img src="../Images/IMG-Day-7A.png" width="46%" alt="Docker Learning Banner" />
+  <img src="../Images/IMG-Day-7B.png" width="46%" alt="Docker Learning Banner" />
+</p>
 
 ## 📚 Topics Covered
 

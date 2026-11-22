@@ -2,7 +2,9 @@
 
 > 🚀 Learning how to create Dockerfiles, build custom Docker images, understand Docker instructions, and execute containers.
 
----
+<p align="center">
+  <img src="../Images/IMG-Day-4.png" width="75%" alt="Docker Learning Banner" />
+</p>
 
 ## 📚 Topics Covered
 

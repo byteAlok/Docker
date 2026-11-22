@@ -2,7 +2,10 @@
 
 > 🚀 Learning how to build, configure, connect, deploy, and manage multi-container applications using Docker Compose, followed by an introduction to Docker Swarm.
 
----
+<p align="center">
+  <img src="../Images/IMG-Day-8A.png" width="46%" alt="Docker Learning Banner" />
+  <img src="../Images/IMG-Day-8B.png" width="47%" alt="Docker Learning Banner" />
+</p>
 
 # 📚 Table of Contents
 

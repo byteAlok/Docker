@@ -2,7 +2,9 @@
 
 > 🚀 Learning Docker through hands-on practice and understanding Images, Containers, and Interactive Terminal operations.
 
----
+<p align="center">
+  <img src="../Images/IMG-Day-2.png" width="75%" alt="Docker Learning Banner" />
+</p>
 
 ## 📚 Topics Covered
 

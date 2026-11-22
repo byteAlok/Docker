@@ -2,7 +2,9 @@
 
 > 🚀 Exploring Python application deployment using AWS EC2 and Docker, understanding Dockerfile, and accessing containers through port mapping.
 
----
+<p align="center">
+  <img src="../Images/IMG-Day-3.png" width="75%" alt="Docker Learning Banner" />
+</p>
 
 ## 📚 Topics Covered
 

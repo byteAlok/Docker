@@ -2,7 +2,10 @@
 
 > 🚀 Learning how to build Java applications using Maven, perform code quality analysis using SonarQube, implement Docker Multi-Stage Builds, and optimize Docker images.
 
----
+<p align="center">
+  <img src="../Images/IMG-Day-6A.png" width="46%" alt="Docker Learning Banner" />
+  <img src="../Images/IMG-Day-6B.png" width="46%" alt="Docker Learning Banner" />
+</p>
 
 ## 📚 Topics Covered
 
